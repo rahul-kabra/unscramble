@@ -52,12 +52,14 @@ export const LEVEL_1 = [
   {
     actual: "storm",
     scrambled: "morts",
-    clue: "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+    clue:
+      "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
   },
   {
     actual: "morning",
     scrambled: "mingnor",
-    clue: "The period of time between midnight and noon, especially from sunrise to noon.",
+    clue:
+      "The period of time between midnight and noon, especially from sunrise to noon.",
   },
   {
     actual: "noisy",
@@ -122,8 +124,9 @@ export const LEVEL_1 = [
   {
     actual: "knight",
     scrambled: "giknth",
-    clue: "A man who served his sovereign or lord as a mounted soldier in armour.",
-  }
+    clue:
+      "A man who served his sovereign or lord as a mounted soldier in armour.",
+  },
 ];
 export const LEVEL_2 = [
   {
@@ -159,7 +162,8 @@ export const LEVEL_2 = [
   {
     actual: "mushroom",
     scrambled: "humsmoor",
-    clue: "Conspicuous umbrella-shaped fruiting body (sporophore) of certain fungi that you can eat.",
+    clue:
+      "Conspicuous umbrella-shaped fruiting body of certain fungi that you can eat.",
   },
   {
     actual: "candy",
@@ -169,7 +173,8 @@ export const LEVEL_2 = [
   {
     actual: "swimming",
     scrambled: "miwingsm",
-    clue: "The sport or activity of propelling oneself through water using the limbs.",
+    clue:
+      "The sport or activity of propelling oneself through water using the limbs.",
   },
   {
     actual: "afternoon",
@@ -194,7 +199,8 @@ export const LEVEL_2 = [
   {
     actual: "bottle",
     scrambled: "teltob",
-    clue: "A glass or plastic container, used for storing drinks or other liquids.",
+    clue:
+      "A glass or plastic container, used for storing drinks or other liquids.",
   },
   {
     actual: "sunshine",
@@ -209,12 +215,14 @@ export const LEVEL_2 = [
   {
     actual: "holiday",
     scrambled: "hyoidal",
-    clue: "An extended period of leisure and recreation, especially one spent away from home or in travelling.",
+    clue:
+      "An extended period of leisure and recreation, especially one spent away from home or in travelling.",
   },
   {
     actual: "computer",
     scrambled: "courempt",
-    clue: "An electronic device for storing and processing data, typically in binary form.",
+    clue:
+      "An electronic device for storing and processing data, typically in binary form.",
   },
   {
     actual: "chair",
@@ -224,12 +232,14 @@ export const LEVEL_2 = [
   {
     actual: "sports",
     scrambled: "orspst",
-    clue: "An athletic activity requiring skill or physical prowess and often of a competitive nature.",
+    clue:
+      "An athletic activity requiring skill or physical prowess and often of a competitive nature.",
   },
   {
     actual: "magic",
     scrambled: "gamic",
-    clue: "The power of apparently influencing events by using mysterious or supernatural forces.",
+    clue:
+      "The power of apparently influencing events by using mysterious or supernatural forces.",
   },
   {
     actual: "thank",
@@ -249,8 +259,9 @@ export const LEVEL_2 = [
   {
     actual: "stars",
     scrambled: "tsars",
-    clue: "A fixed luminous point in the night sky which is a large, remote incandescent body like the sun.",
-  }
+    clue:
+      "A fixed luminous point in the night sky which is a large, remote incandescent body like the sun.",
+  },
 ];
 export const LEVEL_3 = [
   {
@@ -281,7 +292,8 @@ export const LEVEL_3 = [
   {
     actual: "tower",
     scrambled: "owtre",
-    clue: "A tall, narrow building, that either stands alone or forms part of another building.",
+    clue:
+      "A tall, narrow building, that either stands alone or forms part of another building.",
   },
   {
     actual: "kingdom",
@@ -321,12 +333,14 @@ export const LEVEL_3 = [
   {
     actual: "television",
     scrambled: "envoislite",
-    clue: "An electronic device used to receive sound and images which create television programs that people watch.",
+    clue:
+      "An electronic device used to receive sound and images which create television programs that people watch.",
   },
   {
     actual: "aeroplane",
     scrambled: "reponeala",
-    clue: "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
+    clue:
+      "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
   },
   {
     actual: "orange",
@@ -336,7 +350,8 @@ export const LEVEL_3 = [
   {
     actual: "monument",
     scrambled: "munmoten",
-    clue: "A statue, building, or other structure erected to commemorate a notable person or event.",
+    clue:
+      "A statue, building, or other structure erected to commemorate a notable person or event.",
   },
   {
     actual: "mythology",
@@ -351,17 +366,20 @@ export const LEVEL_3 = [
   {
     actual: "arena",
     scrambled: "reaan",
-    clue: "A place where sports, entertainments, and other public events take place.",
+    clue:
+      "A place where sports, entertainments, and other public events take place.",
   },
   {
     actual: "tournament",
     scrambled: "moutantern",
-    clue: "A series of contests between a number of competitors, competing for an overall prize.",
+    clue:
+      "A series of contests between a number of competitors, competing for an overall prize.",
   },
   {
     actual: "lemur",
     scrambled: "merlu",
-    clue: "An arboreal primate with a pointed snout and typically a long tail, found only in Madagascar.",
+    clue:
+      "An arboreal primate with a pointed snout and typically a long tail, found only in Madagascar.",
   },
   {
     actual: "chemical",
@@ -371,11 +389,152 @@ export const LEVEL_3 = [
   {
     actual: "factory",
     scrambled: "fryatoc",
-    clue: "A building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+    clue:
+      "A building or group of buildings where goods are manufactured or assembled chiefly by machine.",
   },
   {
     actual: "atmosphere",
     scrambled: "espartomeh",
     clue: "The envelope of gases surrounding the earth or another planet.",
-  }
+  },
+];
+export const LEVEL_4 = [
+  {
+    actual: "voyage",
+    scrambled: "goyave",
+    clue: "A long journey involving travel by sea or in space.",
+  },
+  {
+    actual: "superhero",
+    scrambled: "repourhes",
+    clue: "A fictional hero having extraordinary or superhuman powers.",
+  },
+  {
+    actual: "crystal",
+    scrambled: "tarscly",
+    clue: "A high-quality glass, usually with patterns cut into its surface.",
+  },
+  {
+    actual: "jaguar",
+    scrambled: "rugaja",
+    clue: "A large animal of the cat family with dark spots on its back.",
+  },
+  {
+    actual: "pineapple",
+    scrambled: "palpipeen",
+    clue:
+      "A large tropical fruit with a rough orange or brown skin and pointed leaves on top.",
+  },
+  {
+    actual: "party",
+    scrambled: "tryap",
+    clue:
+      "A social gathering of invited guests, typically involving eating, drinking, and entertainment.",
+  },
+  {
+    actual: "mission",
+    scrambled: "ismsion",
+    clue: "An important assignment given to a person or group of people.",
+  },
+  {
+    actual: "wedding",
+    scrambled: "dewding",
+    clue:
+      "A marriage ceremony, especially considered as including the associated celebrations.",
+  },
+  {
+    actual: "marriage",
+    scrambled: "aregrima",
+    clue:
+      "A legally and socially sanctioned union, usually between a man and a woman.",
+  },
+  {
+    actual: "plastic",
+    scrambled: "capstil",
+    clue:
+      "A synthetic material made from a wide range of organic polymers such as polyethylene, PVC, nylon, etc.",
+  },
+  {
+    actual: "chandelier",
+    scrambled: "endarchiel",
+    clue:
+      "A large, decorative hanging light with branches for several light bulbs or candles.",
+  },
+  {
+    actual: "bunker",
+    scrambled: "nekurb",
+    clue: "A large container or compartment for storing fuel.",
+  },
+  {
+    actual: "cabinet",
+    scrambled: "nabetic",
+    clue:
+      "A cupboard with shelves or drawers for storing or displaying articles.",
+  },
+  {
+    actual: "dartboard",
+    scrambled: "troaddrab",
+    clue:
+      "A circular board marked with numbered segments, used as a target in the game of darts.",
+  },
+  {
+    actual: "grateful",
+    scrambled: "galuterf",
+    clue: "Feeling or showing an appreciation for something done or received.",
+  },
+  {
+    actual: "graceful",
+    scrambled: "clefgaur",
+    clue:
+      "Characterized by elegance or beauty of form, manner, movement, or speech.",
+  },
+  {
+    actual: "helicopter",
+    scrambled: "tiercelpho",
+    clue:
+      "A type of rotorcraft in which lift and thrust are supplied by horizontally-spinning rotors.",
+  },
+  {
+    actual: "steamer",
+    scrambled: "rametes",
+    clue: "A ship, boat, or locomotive powered by steam.",
+  },
+  {
+    actual: "cooker",
+    scrambled: "okeorc",
+    clue: "An appliance used for cooking food.",
+  },
+  {
+    actual: "mischief",
+    scrambled: "himsfice",
+    clue:
+      "A word for things that are a little bad or reckless but ultimately harmless.",
+  },
+  {
+    actual: "forest",
+    scrambled: "serfto",
+    clue: "A large area covered chiefly with trees and undergrowth.",
+  },
+  {
+    actual: "panther",
+    scrambled: "nerapht",
+    clue: "A leopard, especially a black one.",
+  },
+  {
+    actual: "soyabean",
+    scrambled: "beysanoa",
+    clue: "The most highly proteinaceous vegetable known.",
+  },
+  {
+    actual: "continent",
+    scrambled: "citnetnon",
+    clue:
+      "One of the seven large land masses on the Earth's surface, surrounded or mainly surrounded by sea.",
+  },
+  {
+    actual: "environment",
+    scrambled: "vintnermone",
+    clue:
+      "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+  },
 ];
