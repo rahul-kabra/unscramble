@@ -538,3 +538,133 @@ export const LEVEL_4 = [
       "The surroundings or conditions in which a person, animal, or plant lives or operates.",
   },
 ];
+export const LEVEL_5 = [
+  {
+    actual: "tinker",
+    scrambled: "netkir",
+    clue:
+      "Someone who repairs, or attempts repair, on anything mechanical, or who invents such devices.",
+  },
+  {
+    actual: "betrothed",
+    scrambled: "tthederbo",
+    clue: "The person to whom one is engaged.",
+  },
+  {
+    actual: "inclined",
+    scrambled: "linncide",
+    clue: "Sloping.",
+  },
+  {
+    actual: "satellite",
+    scrambled: "tatiesell",
+    clue: "A celestial body orbiting the earth or another planet.",
+  },
+  {
+    actual: "habitat",
+    scrambled: "itabaht",
+    clue:
+      "The natural home or environment of an animal, plant, or other organism.",
+  },
+  {
+    actual: "accustomed",
+    scrambled: "caumedtocs",
+    clue: "Usual.",
+  },
+  {
+    actual: "embarrassed",
+    scrambled: "darbarsemes",
+    clue: "Feeling awkward.",
+  },
+  {
+    actual: "tuitions",
+    scrambled: "ointtuis",
+    clue: "Teaching given to a person or a small group.",
+  },
+  {
+    actual: "serene",
+    scrambled: "eneers",
+    clue: "Calm and peaceful.",
+  },
+  {
+    actual: "loiter",
+    scrambled: "toreli",
+    clue: "Stand or wait around without apparent purpose.",
+  },
+  {
+    actual: "benevolent",
+    scrambled: "voletenben",
+    clue: "Kind.",
+  },
+  {
+    actual: "philanthropy",
+    scrambled: "naplirothhyp",
+    clue: "The desire to promote the welfare of others.",
+  },
+  {
+    actual: "pioneer",
+    scrambled: "porenei",
+    clue: "A person who is among the first to study or develop something.",
+  },
+  {
+    actual: "harbinger",
+    scrambled: "nibarregh",
+    clue: "Something that gives an anticipatory sign of what is to come.",
+  },
+  {
+    actual: "swansong",
+    scrambled: "awnssnog",
+    clue: "The final performance or activity of a person's career.",
+  },
+  {
+    actual: "voracious",
+    scrambled: "couraviso",
+    clue: "Wanting or devouring great quantities of food.",
+  },
+  {
+    actual: "spaghetti",
+    scrambled: "gaittepsh",
+    clue: "Pasta made in the form of long, thin strings.",
+  },
+  {
+    actual: "oyster",
+    scrambled: "ryesto",
+    clue: "A large flat shellfish.",
+  },
+  {
+    actual: "rendezvous",
+    scrambled: "zonuresdev",
+    clue: "A meeting at an agreed time and place.",
+  },
+  {
+    actual: "surpassed",
+    scrambled: "sussedpar",
+    clue: "Exceeded.",
+  },
+  {
+    actual: "surprise",
+    scrambled: "seirspur",
+    clue: "An unexpected or astonishing event.",
+  },
+  {
+    actual: "pavilion",
+    scrambled: "voiplain",
+    clue:
+      "A building at a cricket ground or other sports ground, used for changing and taking refreshments.",
+  },
+  {
+    actual: "gamut",
+    scrambled: "tagmu",
+    clue: "The complete range or scope of something.",
+  },
+  {
+    actual: "cliche",
+    scrambled: "ichcel",
+    clue: "Stereotype.",
+  },
+  {
+    actual: "bling",
+    scrambled: "nglib",
+    clue: "Expensive, ostentatious clothing and jewellery.",
+  },
+];
