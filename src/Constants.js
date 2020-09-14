@@ -668,3 +668,133 @@ export const LEVEL_5 = [
     clue: "Expensive, ostentatious clothing and jewellery.",
   },
 ];
+export const LEVEL_6 = [
+  {
+    actual: "goosebumps",
+    scrambled: "possumbego",
+    clue: "A state of the skin caused by cold, fear, or excitement.",
+  },
+  {
+    actual: "prerogative",
+    scrambled: "apeigrretvo",
+    clue: "A right or privilege exclusive to a particular individual or class.",
+  },
+  {
+    actual: "incense",
+    scrambled: "sicenne",
+    clue: "A substance that is burned for the sweet smell it produces.",
+  },
+  {
+    actual: "fragrance",
+    scrambled: "acgnarrfe",
+    clue: "A pleasant, sweet smell.",
+  },
+  {
+    actual: "extinguish",
+    scrambled: "ugnixthies",
+    clue: "To bring to an end.",
+  },
+  {
+    actual: "callous",
+    scrambled: "lausloc",
+    clue: "Showing or having an insensitive and cruel disregard for others.",
+  },
+  {
+    actual: "treason",
+    scrambled: "atrones",
+    clue: "The crime of betraying one's country.",
+  },
+  {
+    actual: "whistle",
+    scrambled: "shewlit",
+    clue:
+      "To utter a shrill clear sound by blowing or drawing air through the puckered lips.",
+  },
+  {
+    actual: "powerhouse",
+    scrambled: "ouphewoser",
+    clue: "A person or thing of great energy, strength, or power.",
+  },
+  {
+    actual: "intricate",
+    scrambled: "actinrite",
+    clue: "Very complicated or detailed.",
+  },
+  {
+    actual: "nascent",
+    scrambled: "centnas",
+    clue:
+      "Just coming into existence and beginning to display signs of future potential.",
+  },
+  {
+    actual: "rogue",
+    scrambled: "ugore",
+    clue: "Dishonest or unprincipled.",
+  },
+  {
+    actual: "hysterical",
+    scrambled: "eltchisary",
+    clue: "Affected by or deriving from wildly uncontrolled emotion.",
+  },
+  {
+    actual: "satire",
+    scrambled: "ritsea",
+    clue: "A humorous way of criticizing people.",
+  },
+  {
+    actual: "glaciers",
+    scrambled: "ceilsgar",
+    clue: "A slowly moving mass or river of ice.",
+  },
+  {
+    actual: "dungeon",
+    scrambled: "gnunoed",
+    clue: "A strong underground prison cell, especially in a castle.",
+  },
+  {
+    actual: "charades",
+    scrambled: "escarhad",
+    clue:
+      "A game in which players guess a word or phrase from a written or acted clue.",
+  },
+  {
+    actual: "artillery",
+    scrambled: "rtaiyrlle",
+    clue: "Large-calibre guns used in warfare on land.",
+  },
+  {
+    actual: "reinforcement",
+    scrambled: "femirrocenent",
+    clue: "The action or process of strengthening.",
+  },
+  {
+    actual: "assessment",
+    scrambled: "esnamstess",
+    clue: "The action of assessing someone or something.",
+  },
+  {
+    actual: "consecutive",
+    scrambled: "eicotvenscu",
+    clue: "Following each other continuously.",
+  },
+  {
+    actual: "recliner",
+    scrambled: "creenirl",
+    clue: "A chair in which you can lean back at different angles.",
+  },
+  {
+    actual: "inculcate",
+    scrambled: "leucincat",
+    clue: "Instil by persistent instruction.",
+  },
+  {
+    actual: "remedy",
+    scrambled: "ermeyd",
+    clue: "A medicine or treatment for a disease or injury.",
+  },
+  {
+    actual: "poignant",
+    scrambled: "pgoatinn",
+    clue: "Evoking a keen sense of sadness or regret.",
+  },
+];
