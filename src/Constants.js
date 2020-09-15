@@ -798,3 +798,139 @@ export const LEVEL_6 = [
     clue: "Evoking a keen sense of sadness or regret.",
   },
 ];
+export const LEVEL_7 = [
+  {
+    actual: "masquerade",
+    scrambled: "quasardeem",
+    clue: "A false show or pretence.",
+  },
+  {
+    actual: "charming",
+    scrambled: "ganchmir",
+    clue: "Very pleasant or attractive.",
+  },
+  {
+    actual: "lieutenant",
+    scrambled: "tannietule",
+    clue: "A deputy or substitute acting for a superior.",
+  },
+  {
+    actual: "streamline",
+    scrambled: "enarmelist",
+    clue: "A line along which the flow of a moving fluid is least turbulent.",
+  },
+  {
+    actual: "bewildered",
+    scrambled: "welderbide",
+    clue: "Perplexed and confused.",
+  },
+  {
+    actual: "embellishment",
+    scrambled: "hisbeltmenelm",
+    clue:
+      "A decorative detail or feature added to something to make it more attractive.",
+  },
+  {
+    actual: "arachnid",
+    scrambled: "ranchida",
+    clue:
+      "Any of a group of small animals, similar to insects but with four pairs of legs.",
+  },
+  {
+    actual: "claustrophobia",
+    scrambled: "bopatchouliars",
+    clue:
+      "A situational phobia triggered by an irrational and intense fear of tight or crowded spaces.",
+  },
+  {
+    actual: "serenade",
+    scrambled: "desanere",
+    clue:
+      "A piece of music sung or played in the open air, typically by a man at night under the window of his beloved.",
+  },
+  {
+    actual: "ascend",
+    scrambled: "cansed",
+    clue: "Go up or climb.",
+  },
+  {
+    actual: "metamorphosis",
+    scrambled: "apterismmohos",
+    clue:
+      "A change of the form or nature of a thing or person into a completely different one.",
+  },
+  {
+    actual: "possession",
+    scrambled: "sooensipss",
+    clue: "The state of having, owning, or controlling something.",
+  },
+  {
+    actual: "diligent",
+    scrambled: "eildting",
+    clue:
+      "Having or showing care and conscientiousness in one's work or duties.",
+  },
+  {
+    actual: "obedient",
+    scrambled: "teebiond",
+    clue: "Complying or willing to comply with an order or request.",
+  },
+  {
+    actual: "historical",
+    scrambled: "tischialor",
+    clue: "Belonging to the past.",
+  },
+  {
+    actual: "monetary",
+    scrambled: "ymenarto",
+    clue: "Relating to money or currency.",
+  },
+  {
+    actual: "billionaire",
+    scrambled: "oilierblain",
+    clue:
+      "A person possessing assets worth at least a billion pounds or dollars.",
+  },
+  {
+    actual: "centrifugal",
+    scrambled: "flecurating",
+    clue: "Moving or tending to move away from a centre.",
+  },
+  {
+    actual: "mockery",
+    scrambled: "keromyc",
+    clue:
+      "Teasing and contemptuous language or behaviour directed at a particular person or thing.",
+  },
+  {
+    actual: "coterie",
+    scrambled: "terceoi",
+    clue: "A small group of people with shared interests or tastes.",
+  },
+  {
+    actual: "shambles",
+    scrambled: "ambhelss",
+    clue: "A state of total disorder.",
+  },
+  {
+    actual: "ambiguity",
+    scrambled: "bigitayum",
+    clue: "The quality of being open to more than one interpretation.",
+  },
+  {
+    actual: "pseudonym",
+    scrambled: "osmundyep",
+    clue: "A fictitious name, especially one used by an author.",
+  },
+  {
+    actual: "chore",
+    scrambled: "roche",
+    clue: "A routine task, especially a household one.",
+  },
+  {
+    actual: "flinching",
+    scrambled: "ichgiflnn",
+    clue:
+      "Making a quick, nervous movement as an instinctive reaction to fear, pain, or surprise.",
+  },
+];
