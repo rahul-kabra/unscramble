@@ -934,3 +934,140 @@ export const LEVEL_7 = [
       "Making a quick, nervous movement as an instinctive reaction to fear, pain, or surprise.",
   },
 ];
+export const LEVEL_8 = [
+  {
+    actual: "molecule",
+    scrambled: "elmleuco",
+    clue:
+      "A group of atoms bonded together, representing the smallest fundamental unit of a chemical compound.",
+  },
+  {
+    actual: "district",
+    scrambled: "rittcids",
+    clue:
+      "An area of a country or city, especially one characterized by a particular feature or activity.",
+  },
+  {
+    actual: "scientific",
+    scrambled: "eticficins",
+    clue: "Based on or characterized by the methods and principles of science.",
+  },
+  {
+    actual: "redeem",
+    scrambled: "eremed",
+    clue: "Compensate for the faults or bad aspects of.",
+  },
+  {
+    actual: "transportation",
+    scrambled: "atropinsrottan",
+    clue:
+      "The action of transporting someone or something or the process of being transported.",
+  },
+  {
+    actual: "millennium",
+    scrambled: "leiminlmun",
+    clue: "A period of a thousand years.",
+  },
+  {
+    actual: "spectrum",
+    scrambled: "percstum",
+    clue: "A band of colours, as seen in a rainbow.",
+  },
+  {
+    actual: "oasis",
+    scrambled: "sosai",
+    clue: "A fertile spot in a desert, where water is found.",
+  },
+  {
+    actual: "schedule",
+    scrambled: "eheduscl",
+    clue:
+      "A plan for carrying out a process or procedure, giving lists of intended events and times.",
+  },
+  {
+    actual: "flourish",
+    scrambled: "huisflor",
+    clue: "Grow or develop in a healthy or vigorous way.",
+  },
+  {
+    actual: "conservative",
+    scrambled: "centavosrive",
+    clue: "Averse to change or innovation and holding traditional values.",
+  },
+  {
+    actual: "broadcast",
+    scrambled: "troadscab",
+    clue: "Transmit by radio or television.",
+  },
+  {
+    actual: "miracle",
+    scrambled: "criaelm",
+    clue:
+      "An extraordinary and welcome event that is not explicable by natural or scientific laws.",
+  },
+  {
+    actual: "continue",
+    scrambled: "ncuitneo",
+    clue: "Persist in an activity or process.",
+  },
+  {
+    actual: "pumpkin",
+    scrambled: "munkipp",
+    clue: "Associated with Halloween.",
+  },
+  {
+    actual: "parsley",
+    scrambled: "pryseal",
+    clue:
+      "A small plant with flat or curly leaves that are used for flavouring.",
+  },
+  {
+    actual: "spreadsheet",
+    scrambled: "sparthesdee",
+    clue:
+      "A file that exists of cells in rows and columns and can help arrange, calculate and sort data.",
+  },
+  {
+    actual: "dictionary",
+    scrambled: "docairnyit",
+    clue: "A reference book on a particular subject.",
+  },
+  {
+    actual: "imprint",
+    scrambled: "nimript",
+    clue: "Impress or stamp a mark or outline on a surface.",
+  },
+  {
+    actual: "citrus",
+    scrambled: "csrtui",
+    clue:
+      "A tree of a genus that includes citron, lemon, lime, orange, and grapefruit.",
+  },
+  {
+    actual: "subtle",
+    scrambled: "elbuts",
+    clue: "So delicate or precise as to be difficult to analyse or describe.",
+  },
+  {
+    actual: "machine",
+    scrambled: "cahmine",
+    clue:
+      "An apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task.",
+  },
+  {
+    actual: "special",
+    scrambled: "salicpe",
+    clue: "Better, greater, or otherwise different from what is usual.",
+  },
+  {
+    actual: "palindrome",
+    scrambled: "pminoredal",
+    clue:
+      "A word, phrase, or sequence that reads the same backwards as forwards.",
+  },
+  {
+    actual: "dormitory",
+    scrambled: "trdiymoor",
+    clue: "A large bedroom for a number of people in a school or institution.",
+  },
+];
