@@ -1071,3 +1071,134 @@ export const LEVEL_8 = [
     clue: "A large bedroom for a number of people in a school or institution.",
   },
 ];
+export const LEVEL_9 = [
+  {
+    actual: "inconvenient",
+    scrambled: "eviteinnonnc",
+    clue: "Causing trouble, difficulties, or discomfort.",
+  },
+  {
+    actual: "grandeur",
+    scrambled: "uderrgan",
+    clue: "Splendour and impressiveness, especially of appearance or style.",
+  },
+  {
+    actual: "magistrate",
+    scrambled: "metristaga",
+    clue: "An official entrusted with administration of the laws.",
+  },
+  {
+    actual: "gregarious",
+    scrambled: "gougerrias",
+    clue: "Sociable.",
+  },
+  {
+    actual: "appetite",
+    scrambled: "tetepipa",
+    clue: "A natural desire to satisfy a bodily need, especially for food.",
+  },
+  {
+    actual: "miscellaneous",
+    scrambled: "linoleumsaesc",
+    clue: "Composed of members or elements of different kinds.",
+  },
+  {
+    actual: "humongous",
+    scrambled: "ungumsoho",
+    clue: "Huge.",
+  },
+  {
+    actual: "prestigious",
+    scrambled: "surgiestpoi",
+    clue: "Inspiring respect and admiration.",
+  },
+  {
+    actual: "myriad",
+    scrambled: "dimyar",
+    clue: "A countless or extremely great number of people or things.",
+  },
+  {
+    actual: "perspective",
+    scrambled: "privetscepe",
+    clue: "A point of view.",
+  },
+  {
+    actual: "culinary",
+    scrambled: "anyucirl",
+    clue: "Something related to food or cooking.",
+  },
+  {
+    actual: "aggregate",
+    scrambled: "tergagage",
+    clue: "A whole formed by combining several separate elements.",
+  },
+  {
+    actual: "inaugurate",
+    scrambled: "taguaniure",
+    clue: "Begin or introduce.",
+  },
+  {
+    actual: "affiliation",
+    scrambled: "finifilaoat",
+    clue: "The state or process of affiliating or being affiliated.",
+  },
+  {
+    actual: "conquest",
+    scrambled: "oncetsuq",
+    clue:
+      "The subjugation and assumption of control of a place or people by military force.",
+  },
+  {
+    actual: "apprehension",
+    scrambled: "papishereonn",
+    clue: "Anxiety or fear that something bad or unpleasant will happen.",
+  },
+  {
+    actual: "minuscle",
+    scrambled: "incusmel",
+    clue: "Extremely small.",
+  },
+  {
+    actual: "precipitation",
+    scrambled: "pecorinipitta",
+    clue:
+      "Rain, snow, sleet, or hail that falls to or condenses on the ground.",
+  },
+  {
+    actual: "meander",
+    scrambled: "enarmde",
+    clue: "To turn in different directions.",
+  },
+  {
+    actual: "accommodate",
+    scrambled: "cadetmocamo",
+    clue: "Provide lodging or sufficient space for.",
+  },
+  {
+    actual: "mesmerize",
+    scrambled: "rezesmime",
+    clue: "Capture the complete attention of.",
+  },
+  {
+    actual: "pedestrian",
+    scrambled: "anestriped",
+    clue: "A person walking rather than travelling in a vehicle.",
+  },
+  {
+    actual: "trivial",
+    scrambled: "litirav",
+    clue: "Of little value or importance.",
+  },
+  {
+    actual: "butterfly",
+    scrambled: "terfbutyl",
+    clue:
+      "A nectar-feeding insect with two pairs of large, typically brightly coloured wings that are covered with microscopic scales.",
+  },
+  {
+    actual: "mosaic",
+    scrambled: "oiscam",
+    clue:
+      "A picture or pattern produced by arranging together small pieces of stone, tile, glass, etc.",
+  },
+];
