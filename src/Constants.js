@@ -1202,3 +1202,132 @@ export const LEVEL_9 = [
       "A picture or pattern produced by arranging together small pieces of stone, tile, glass, etc.",
   },
 ];
+export const LEVEL_10 = [
+  {
+    actual: "archipelago",
+    scrambled: "golecharpai",
+    clue: "An extensive group of islands.",
+  },
+  {
+    actual: "acknowledgement",
+    scrambled: "cawkentledgemon",
+    clue: "Acceptance.",
+  },
+  {
+    actual: "jurisdiction",
+    scrambled: "isocitrinjud",
+    clue: "The official power to make decisions.",
+  },
+  {
+    actual: "considerate",
+    scrambled: "andesiteorc",
+    clue: "Careful not to incovenience others.",
+  },
+  {
+    actual: "pompous",
+    scrambled: "moopups",
+    clue: "Grand.",
+  },
+  {
+    actual: "magnificent",
+    scrambled: "fmanniticeg",
+    clue: "Extremely beautiful.",
+  },
+  {
+    actual: "wonderful",
+    scrambled: "feldornuw",
+    clue: "Extremely good.",
+  },
+  {
+    actual: "annihilation",
+    scrambled: "lathinionani",
+    clue: "Complete destruction.",
+  },
+  {
+    actual: "meritorius",
+    scrambled: "simouterri",
+    clue: "Deserving reward or praise.",
+  },
+  {
+    actual: "precision",
+    scrambled: "piconesir",
+    clue: "The quality of being exact and accurate.",
+  },
+  {
+    actual: "cantonment",
+    scrambled: "cemontannt",
+    clue: "A military camp.",
+  },
+  {
+    actual: "designation",
+    scrambled: "onsgidenati",
+    clue: "Act of pointing someone out with name or title.",
+  },
+  {
+    actual: "possibility",
+    scrambled: "obtipsilyis",
+    clue: "A thing that may happen.",
+  },
+  {
+    actual: "melancholy",
+    scrambled: "lylochanme",
+    clue: "A feeling of sadness with no obvious cause.",
+  },
+  {
+    actual: "boisterous",
+    scrambled: "susobotier",
+    clue: "Noisy.",
+  },
+  {
+    actual: "cornucopia",
+    scrambled: "uproacnoic",
+    clue:
+      "A large horn-shaped container which is a symbol of abundance and nourishment.",
+  },
+  {
+    actual: "camaraderie",
+    scrambled: "arcaamreied",
+    clue:
+      "Mutual trust and friendship among people who spend a lot of time together.",
+  },
+  {
+    actual: "renaissance",
+    scrambled: "nsarecinase",
+    clue: "A revival or renewed interest in something.",
+  },
+  {
+    actual: "gargantuan",
+    scrambled: "uanngtarga",
+    clue: "Enormous.",
+  },
+  {
+    actual: "sobriquet",
+    scrambled: "reqsobuit",
+    clue: "A person's nickname.",
+  },
+  {
+    actual: "razzmatazz",
+    scrambled: "ztazmazraz",
+    clue: "Exciting activity and display designed to attract and impress.",
+  },
+  {
+    actual: "epiphany",
+    scrambled: "apyineph",
+    clue: "An experience of a sudden and striking realization.",
+  },
+  {
+    actual: "colloquial",
+    scrambled: "liquallcoo",
+    clue: "Language used for informal conversation.",
+  },
+  {
+    actual: "centenarian",
+    scrambled: "annancierte",
+    clue: "A person who is a hundred years old or more.",
+  },
+  {
+    actual: "psyche",
+    scrambled: "chyeps",
+    clue: "The human soul, mind or spirit.",
+  },
+];
