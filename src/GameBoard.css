@@ -1,0 +1,213 @@
+#input-container {
+  display: grid;
+  grid-template-columns: 200px auto;
+  justify-content: center;
+  max-width: 900px;
+  margin: 40px auto;
+  height: 50px;
+}
+
+.floating-label {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.floating-input {
+  padding: 4px 4px;
+  display: block;
+  width: 100%;
+  height: 30px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 3px solid #7ba7bc;
+  cursor: pointer;
+  color: #8f272f;
+}
+
+.floating-input:focus {
+  outline: none;
+  border-bottom: 5px solid #644566;
+}
+
+.floating-label > label {
+  color: #644566;
+  font-weight: normal;
+  position: absolute;
+  left: 5px;
+  top: 0px;
+  transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -webkit-transition: 0.2s ease all;
+  cursor: pointer;
+}
+
+.floating-input:focus ~ label,
+.floating-input:not(:placeholder-shown) ~ label {
+  top: -18px;
+  color: #644566;
+}
+
+.floating-input:focus ~ .bar:before,
+.floating-input:focus ~ .bar:after {
+  width: 50%;
+}
+
+.highlight {
+  position: absolute;
+  height: 50%;
+  width: 100%;
+  top: 15%;
+  left: 0;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.floating-input:focus ~ .highlight {
+  -webkit-animation: inputHighlighter 0.3s ease;
+  -moz-animation: inputHighlighter 0.3s ease;
+  animation: inputHighlighter 0.3s ease;
+}
+
+@-webkit-keyframes inputHighlighter {
+  from {
+    background: #644566;
+  }
+
+  to {
+    width: 0;
+    background: transparent;
+  }
+}
+
+@-moz-keyframes inputHighlighter {
+  from {
+    background: #644566;
+  }
+
+  to {
+    width: 0;
+    background: transparent;
+  }
+}
+
+@keyframes inputHighlighter {
+  from {
+    background: #644566;
+  }
+
+  to {
+    width: 0;
+    background: transparent;
+  }
+}
+
+.btn {
+  color: #644566;
+  text-decoration: none;
+  margin: 0 1em;
+  background-color: #fedc2a;
+  box-shadow: 0 0 0 0 #444 inset, 0.3em 0.2em 0 0 #7ba7bc;
+  border: 0.2em solid #444;
+  padding: 0.8em;
+  text-align: center;
+  transition: 0.25s box-shadow, 0.25s -webkit-transform;
+  height: 40px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn-small {
+  padding: 0.7em;
+}
+
+.btn:hover {
+  box-shadow: 0 4em 0 0 #7ba7bc inset, 0em 0em 0 0 #444;
+  transform: translate(0.3em, 0.2em);
+  -webkit-transform: translate(0.3em, 0.2em);
+  color: #fedc2a;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+#game-control-container {
+  display: grid;
+  grid-template-rows: repeat(auto-fit, 30px);
+  grid-template-columns: repeat(auto-fit, 200px);
+  grid-gap: 10px;
+  padding: 5px 20px;
+  margin: 15px auto;
+  max-width: 900px;
+  justify-content: center;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 17px;
+}
+
+#game-control-container > span {
+  width: 200px;
+  height: 30px;
+}
+#description {
+  max-width: 900px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+#scrambled-word-container {
+  max-width: 900px;
+  margin: 25px auto;
+  font-weight: bolder;
+  min-height: 100px;
+  text-align: center;
+  color: #644566;
+}
+
+#scrambled-word {
+  font-size: 35px;
+  letter-spacing: 5px;
+  word-wrap: break-word;
+}
+
+#level-container {
+  display: grid;
+  grid-template-rows: repeat(auto-fit, 30px);
+  grid-template-columns: repeat(auto-fit, 120px);
+  grid-gap: 10px;
+  padding: 5px;
+  margin: 15px auto;
+  max-width: 250px;
+  justify-items: center;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
+  justify-content: center;
+}
+
+.level {
+  border: 3px solid #333;
+  padding: 2px;
+  background: #476e81;
+  border-radius: 5px;
+  color: aliceblue;
+  height: 25px;
+  width: 75px;
+  cursor: pointer;
+}
+
+.level:hover {
+  background: #8bc3e5;
+}
+
+.level > label {
+  cursor: pointer;
+}
+
+#level-header-container {
+  max-width: 175px;
+  margin: 15px auto;
+  display: flex;
+  font-size: 18px;
+  justify-content: center;
+}

@@ -1331,3 +1331,44 @@ export const LEVEL_10 = [
     clue: "The human soul, mind or spirit.",
   },
 ];
+export const WrongCount = 5;
+export const MaxScore = 250;
+
+export const getWords = (level) => {
+  let words = "";
+  switch (level) {
+    case 1:
+      words = LEVEL_1;
+      break;
+    case 2:
+      words = LEVEL_2;
+      break;
+    case 3:
+      words = LEVEL_3;
+      break;
+    case 4:
+      words = LEVEL_4;
+      break;
+    case 5:
+      words = LEVEL_5;
+      break;
+    case 6:
+      words = LEVEL_6;
+      break;
+    case 7:
+      words = LEVEL_7;
+      break;
+    case 8:
+      words = LEVEL_8;
+      break;
+    case 9:
+      words = LEVEL_9;
+      break;
+    case 10:
+      words = LEVEL_10;
+      break;
+    default:
+      words = [];
+  }
+  return words;
+};
