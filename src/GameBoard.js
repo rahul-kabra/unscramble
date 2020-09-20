@@ -34,6 +34,23 @@ class GameBoard extends React.Component {
     this.fetchWord = this.fetchWord.bind(this);
     this.checkWord = this.checkWord.bind(this);
     this.stopGame = this.stopGame.bind(this);
+    this.handleKeyDown = this.handleKeyDown.bind(this);
+  }
+
+  componentDidMount() {
+    document.addEventListener("keydown", this.handleKeyDown);
+  }
+
+  componentWillUnmount() {
+    document.removeEventListener("keydown", this.handleKeyDown);
+  }
+
+  handleKeyDown(e) {
+    if (e.keyCode === 13) {
+      if (this.userInput !== "" && this.state.word !== "") {
+        this.checkWord();
+      }
+    }
   }
 
   startGame() {
