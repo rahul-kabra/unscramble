@@ -2,6 +2,7 @@ import React from "react";
 import "./GameBoard.css";
 
 import * as Constants from "./Constants";
+import GameEnd from "./GameEnd";
 
 class GameBoard extends React.Component {
   constructor(props) {
@@ -221,6 +222,17 @@ class GameBoard extends React.Component {
           </p>
         </div>
 
+        <div
+          style={
+            (this.state.gameState === "running" ||
+              this.state.gameState !== "") &&
+            this.state.gameState !== "end"
+              ? { display: "block", maxWidth: "900px", margin: "40px auto" }
+              : this.state.gameState === "end"
+              ? { display: "block", opacity: 0.3 }
+              : { display: "none" }
+          }
+        >
           <div id="level-header-container">
             <h3
               style={{
@@ -303,6 +315,24 @@ class GameBoard extends React.Component {
               <span>Submit</span>
             </button>
           </div>
+        </div>
+
+        <div
+          style={
+            this.state.gameState === "end" &&
+            this.state.gameState !== "" &&
+            this.state.gameState !== "running"
+              ? { display: "block" }
+              : { display: "none" }
+          }
+        >
+          <GameEnd
+            didWin={this.didWin}
+            gameMode={this.state.gameMode}
+            timeLeft={this.state.seconds}
+            startGame={this.startGame}
+          />
+        </div>
       </>
     );
   }
