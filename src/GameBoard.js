@@ -120,7 +120,7 @@ class GameBoard extends React.Component {
   }
 
   checkWord() {
-    let userInput = this.userInput.value;
+    let userInput = this.userInput.value.toLowerCase();
     if (this.state.word === userInput) {
       this.userInput.value = "";
       this.misses = 0;
